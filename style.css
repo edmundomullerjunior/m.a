@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
-    color: #333;
+    color: #fffbfb;
     margin: 0;
     padding: 0;
 }
@@ -10,7 +10,7 @@ header {
     text-align: center;
     padding: 20px;
     background-color: #2b0063;
-    color: rgb(70, 65, 65);
+    color: rgb(255, 254, 254);
 }
 
 h1 {
